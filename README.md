@@ -13,6 +13,8 @@ Simple project to reinforce what I learned about React Query.  Similar to [Futur
 
 ## Overview
 
+[Live Link](https://jdegand.github.io/rick-and-morty-wiki/)
+
 ### Screenshot
 
 ![](rick-and-morty-homepage.png)
